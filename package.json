@@ -1,6 +1,6 @@
 {
   "name": "teablockhp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js library for seamless Ethereum blockchain interaction, facilitating tasks like balance checks, transactions, and more with ease.",
   "main": "src/index.js",
   "scripts": {
